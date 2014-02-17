@@ -1,0 +1,17 @@
+10-60 walk
+60-120 walk_shoot
+130-160 run
+170-230 walk_back
+240-295 walk_right
+300-355 walk_left
+360-380 shoot1
+385-445 shoot2
+400-430 shoot2_loop
+450-500 hit1
+500-540 hit2
+540-600 hit3
+600-720 death1
+730-840 death2
+850-950 death3
+960-990 power_of
+990-1010 power_on
